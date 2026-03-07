@@ -34,7 +34,7 @@ A modern Android quiz application with:
 
 ## 📫 Contact
 
-📧 Email: elgun.agayev.dev@gmail.com  
+📧 Email: elgun.agayev.tech@gmail.com  
 💼 LinkedIn: https://linkedin.com/in/elgun-agayev  
 
 ⭐ Always learning and building new things in mobile development.
