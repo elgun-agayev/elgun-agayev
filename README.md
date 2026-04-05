@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Elgun Agayev
 
-🚀 Junior Android Developer | Kotlin | MVVM | Jetpack Compose | Firebase
+🚀 Android Developer (Kotlin, MVVM, Jetpack Compose, Firebase)
 
 ---
 
