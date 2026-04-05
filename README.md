@@ -116,7 +116,7 @@
 ## 📫 Contact
 
 * 📧 Email: [elgun.agayev.tech@gmail.com](mailto:elgun.agayev.tech@gmail.com)
-* 💼 LinkedIn: https://linkedin.com/in/YOUR-LINK
+* 💼 LinkedIn: [https://linkedin.com/in/YOUR-LINK](https://www.linkedin.com/in/elgun-agayev/)
 
 ---
 
