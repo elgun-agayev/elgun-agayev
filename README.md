@@ -109,7 +109,7 @@
 
 ## 📊 GitHub Stats
 
-![Elgun's GitHub stats](https://github-readme-stats.vercel.app/api?username=elgun-agayev&show_icons=true&theme=tokyonight)
+[![Elgun's GitHub stats](https://github-readme-stats.vercel.app/api?username=elgun-agayev&show_icons=true&theme=tokyonight)](https://github.com/elgun-agayev)
 ---
 
 ## 📫 Contact
